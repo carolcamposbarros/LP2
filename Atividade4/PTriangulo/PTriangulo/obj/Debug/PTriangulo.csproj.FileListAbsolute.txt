@@ -1,0 +1,11 @@
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe.config
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\bin\Debug\PTriangulo.exe
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\bin\Debug\PTriangulo.pdb
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.AssemblyReference.cache
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Form1.resources
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.Properties.Resources.resources
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.GenerateResource.cache
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.exe
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.pdb
+C:\Users\carol\Downloads\PTriangulo\PTriangulo\obj\Debug\PTriangulo.exe.config
